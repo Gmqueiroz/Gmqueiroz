@@ -1,8 +1,22 @@
-- 👋 Hi, I’m Guilherme Maciel Queiroz, or @Gmqueiroz.
-- 👀 I’m interested in Data Analysis, Video Games and Sports in general, but E-sports, Football and Basketball really gets most of my atention
-- 🌱 I’m currently trying to improve my skills in Python and SQL
-- 💞️ I’m looking to collaborate on in anything that can improove my skills in data analysis
-- 📫 How to reach me: gmq2000@gmail.com / https://www.linkedin.com/in/guilherme-maciel-queiroz-b7b370200/?locale=en_US
+👋 Sobre mim
+Olá! Meu nome é Guilherme Maciel Queiroz. Sou formado em Sociologia pela Universidade de Brasília (UnB) e tenho me especializado em análise de dados, unindo minha formação em ciências sociais à prática com ferramentas técnicas.
+
+Neste repositório, compartilho projetos que desenvolvi para estudar e aplicar conhecimentos em:
+
+Python (limpeza, transformação e visualização de dados)
+
+Power BI (dashboards interativos e análise visual)
+
+SQL (consultas e organização de bases de dados)
+
+Excel e Google Sheets (automação e análises rápidas)
+
+Além da bagagem teórica em pesquisa social, tenho interesse em resolver problemas reais com dados — seja no contexto acadêmico, institucional ou corporativo.
+
+📌 Objetivo deste portfólio
+
+Este espaço foi criado para demonstrar minhas habilidades técnicas, minha capacidade analítica e minha vontade de aprender e crescer profissionalmente. Fique à vontade para explorar os projetos, comentar ou entrar em contato! Estou no processo de adição e otimização de projetos aqui. 
+gmq2000@gmail.com / https://www.linkedin.com/in/guilherme-maciel-queiroz-b7b370200/?locale=en_US
 
 
 <!---
