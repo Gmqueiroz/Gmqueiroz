@@ -9,8 +9,7 @@
 
  Olá! Meu nome é Guilherme Maciel Queiroz. Sou formado em Sociologia pela Universidade de Brasília (UnB) e tenho me especializado em análise de dados, unindo minha formação em ciências sociais à prática com ferramentas técnicas.
 
-Este espaço foi criado para demonstrar minhas habilidades técnicas, minha capacidade analítica e minha vontade de aprender e crescer profissionalmente. Fique à vontade para explorar os projetos, comentar ou entrar em contato! Estou no processo de adição e otimização de projetos aqui. 
-
+Este espaço foi criado para armazenar projetos pessoais e profissionais que me auxiliam na aplicação e aperfeiçoamento das minhas habilidades relacionadas a análise de dados. 
 
 ## 🛠 Tecnologias & Ferramentas
 
@@ -53,11 +52,7 @@ Este espaço foi criado para demonstrar minhas habilidades técnicas, minha capa
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gmq2000@email.com)
 
 
-</div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
 
 <!---
